@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### 2. Настройка переменных окружения
 
-Создайте файл `.env` в корне проекта (используйте `env.example.txt` как шаблон):
+Создайте файл `.env` в корне проекта:
 
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
